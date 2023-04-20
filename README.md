@@ -2,7 +2,7 @@
 
 this is a very simple project in python
 
-you have tow varieables ***x and y***.
+you have two varieables ***x and y***.
 
 ***y is the smaller one*** and ***x is the bigger one***
 
